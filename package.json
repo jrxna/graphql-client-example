@@ -1,0 +1,8 @@
+{
+  "name": "graphql-client-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joelerego/graphql-client-example.git",
+  "author": "Joel E. Rego <joelerego@gmail.com>",
+  "license": "MIT"
+}
